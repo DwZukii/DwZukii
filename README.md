@@ -41,8 +41,3 @@ I like turning messy, real-world business problems into clean systems that actua
 Driven by curiosity, built with logic.
 
 ---
-
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DwZukii&theme=radical&row=1&column=6)
