@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adam+%F0%9F%91%8B;Software+Engineering+Undergrad+%40+UniKL+MIIT;Building+UniPact+%26+Tele+Manager;Badminton+%2B+Running+%2B+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adam+%F0%9F%91%8B;Software+Engineering+Undergrad+%40+UniKL+MIIT;Building+UniPact+%26+Tele+Manager;Badminton+%2B+Code" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=DwZukii&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -36,7 +38,8 @@ I like turning messy, real-world business problems into clean systems that actua
 
 * **UniPact** — A two-sided marketplace matching students to company gigs across software dev and digital marketing scopes. Django backend, currently in closed beta with real companies onboarded.
 * **Tele Manager** — A React + Supabase lead management platform built for my dad's loan business, live in production. Multi-role hierarchy (super admin, GM, manager, agent), custom RLS policies, duplicate-detection RPCs, and audit-driven security hardening.
-* **Cyber-Fiqh** — AI-driven Shariah-compliant product generation system. Top 10 at Hackathon.
+* **TrustMesh** — Built at MUBA Hacks 2026 (Sui + Gonka AI tracks), placed Top 10. A marketplace connecting companies with student freelancers, solving the freelance trust problem with an on-chain Sui Move escrow: companies lock payment upfront, two independent AI models grade the delivered work, and a smart contract auto-releases funds once the work clears a trust threshold.
+* **Cyber-Fiqh** — AI-driven Shariah-compliant product generation system, Top 10 at Hackathon.
 
 ---
 
@@ -51,11 +54,9 @@ I like turning messy, real-world business problems into clean systems that actua
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DwZukii&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwZukii&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DwZukii&theme=tokyonight&hide_border=true" width="60%" />
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DwZukii&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DwZukii&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=DwZukii&theme=radical&hide_border=true" width="60%" />
 </div>
 
 ---
