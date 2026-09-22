@@ -63,10 +63,6 @@ I like turning messy, real-world business problems into clean systems that actua
 <img src="https://streak-stats.demolab.com/?user=DwZukii&theme=radical&hide_border=true" width="60%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DwZukii&theme=radical&no-frame=true&row=2&column=6" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📬 Let's Connect
